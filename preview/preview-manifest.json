@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/liquid-breakbeat-melodies-simple-synth-preview.mp3",
+  "preview_sha256": "7ddd0c8cbc3c90a8976e880e996855d2d1c29c9cabcf8737ceb7038638e036d9",
+  "source_midi_path": "midi/z4301-liquid-breakbeat-melodies-opening/z4301-liquid-breakbeat-melodies-opening-combined.mid",
+  "source_midi_sha256": "40734b7317a13f0fff5a859ecb350cc18aab533fcf54d57483db56c4f6afbdb7",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z4301",
+    "start_seconds": 0,
+    "end_seconds": 54.857
+  },
+  "measurement": {
+    "sample_peak": 0.121758,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

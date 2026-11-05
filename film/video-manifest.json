@@ -1,0 +1,26 @@
+{
+  "title": "Liquid Breakbeat Melodies",
+  "study": "z4301",
+  "bpm": 140,
+  "source_audio": "preview/liquid-breakbeat-melodies-simple-synth-preview.mp3",
+  "source_audio_sha256": "7ddd0c8cbc3c90a8976e880e996855d2d1c29c9cabcf8737ceb7038638e036d9",
+  "source_midi": "midi/z4301-liquid-breakbeat-melodies-opening/z4301-liquid-breakbeat-melodies-opening-combined.mid",
+  "source_midi_sha256": "40734b7317a13f0fff5a859ecb350cc18aab533fcf54d57483db56c4f6afbdb7",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "d531fa6ac1d3bce9824f40bea80e8a66b383f16742abdb7c377f6ade4b060ad0",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "93134caa71b3ac35768d8a0c8de0a5f50e17fd78c4d0b5180f4ab67968c0bed7",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "81f746622c2e1818814e6ff7786f89334f0aa478be698c4089d400b148e06433",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
