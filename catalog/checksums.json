@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/liquid-breakbeat-melodies-midi.zip",
-      "bytes": 31636,
-      "sha256": "bb9d34d825ea9dfa090fdbb9e62a06ae3b881c3d9e8c925ce1e08e03a9ecbd44"
+      "bytes": 32623,
+      "sha256": "1cb2665382058f5b10382b9dc86d8a8a5a404539e9e2440bbbbf0d84f1e62ac6"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10044,
-      "sha256": "5514a11d8e8ca339fc1a9a2a2fb8a91ce97346f204d56cc5137e857a72374d2f"
+      "bytes": 10234,
+      "sha256": "7fe9dbcd66ee6954edfd52b8ca35daf329786e7039682e1bf28cbdbce426d86a"
     },
     {
       "path": "midi/z4301-liquid-breakbeat-melodies-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "7a5b4b72f0746f0ecc2924149193b56ac7d0cb44b8f3c76776571df4274201a7"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/liquid-breakbeat-melodies-simple-synth-preview.mp3",
       "bytes": 1330408,
       "sha256": "7ddd0c8cbc3c90a8976e880e996855d2d1c29c9cabcf8737ceb7038638e036d9"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4002,
-      "sha256": "b68a2017ad500f49294401394ed59725be98d7baf3caa62ad6f0e36380b03975"
+      "bytes": 4117,
+      "sha256": "2f76055aa293d91cf86f0f1d713d397eaad4153173068bc8bb311487b477a970"
     },
     {
       "path": "social/instagram/caption.txt",
